@@ -1,3 +1,6 @@
+/* Using HTML, Bootstrap, and JavaScript create a single page website that contains the following:
+* A Bootstrap styled table representing your choice of data.
+* A Bootstrap styled form that allows a user to add a new row to the table when clicking on submit.*/
 
 //constants for getting the elements from the HTML document by their class or ID
 const table = document.getElementById('comments');
